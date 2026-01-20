@@ -43,21 +43,6 @@ Each lab focuses on a core statistical concept and applies it using Python.
 
 ---
 
-## Repository Structure
-
-├── Lab01_Descriptive_Statistics.ipynb
-├── Lab02_Data_Visualization.ipynb
-├── Lab03_Probability.ipynb
-├── Lab04_Inferential_Statistics.ipynb
-├── Lab05_Correlation_and_Regression.ipynb
-├── datasets/
-│ ├── students.csv
-│ └── sales.csv
-└── README.md
-
-
----
-
 ## Getting Started
 
 1. Clone the repository  
