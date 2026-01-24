@@ -2,55 +2,59 @@
 
 A collection of hands-on laboratory activities designed to teach Statistics using Python through practical, real-world data analysis.
 
-This repository is built for students who want to actually understand statistics, not just memorize formulas.
+This repository is built for students who want to actually understand statistics and the coding fundamentals behind them, not just memorize formulas.
 
 ---
 
-## What’s Inside
+## 📂 Repository Structure
 
-Each lab focuses on a core statistical concept and applies it using Python.
+### The Labs
+The activities follow a progression from Python basics to statistical application:
 
-- Descriptive Statistics  
-  Mean, median, mode, variance, standard deviation, percentiles
+| Lab | File Name | Key Concepts |
+| :--- | :--- | :--- |
+| **01** | `Lab-1-lists-and-tuples.ipynb` | **Python Basics:** Handling data structures, list manipulation, and tuple immutability. |
+| **02** | `Lab-2-for-Loop.ipynb` | **Control Flow:** Iterating through data sequences and automating calculations. |
+| **03** | `Lab-3-numpy-basics.ipynb` | **Numerical Computing:** Introduction to NumPy arrays, broadcasting, and vectorization. |
+| **04** | `Lab-4-pandas-basics.ipynb` | **Data Manipulation:** Loading CSVs, DataFrames, cleaning data, and basic exploratory analysis. |
+| **05** | `Lab-5-correlation.ipynb` | **Statistical Relationships:** Measuring the strength of relationships between variables (Pearson/Spearman). |
+| **06** | `Lab-6-standard-normal-distribution.ipynb` | **Probability:** Understanding the Bell Curve, Z-scores, and probability density. |
 
-- Data Visualization  
-  Histograms, boxplots, bar charts, line plots
+### The Datasets
+Located in the `dataset/` directory, these real-world CSV files are used throughout the labs:
 
-- Probability & Distributions  
-  Normal, binomial, Poisson distributions
-
-- Inferential Statistics  
-  Sampling, confidence intervals, hypothesis testing
-
-- Correlation & Regression  
-  Pearson correlation, simple linear regression
-
-- Mini Data Analysis Projects  
-  Real datasets with guided questions
-
----
-
-## Tech Stack
-
-- Python 3.9+  
-- Jupyter Notebook  
-- Libraries:
-  - numpy  
-  - pandas  
-  - matplotlib  
-  - scipy  
-  - seaborn  
+* **Environmental:** `air-quality.csv`
+* **Energy:** `current-power.csv`, `current-test.csv`, `transformer-voltage.csv`
+* **Retail/Inventory:** `shoe-inventory.csv`
 
 ---
 
-## Getting Started
+## 🛠 Tech Stack
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/statistics-python-labs.git
-   cd statistics-python-labs
+* **Python 3.9+**
+* **Jupyter Notebook**
+* **Core Libraries:**
+    * `numpy` (Math & Arrays)
+    * `pandas` (Data Handling)
+    * `matplotlib` & `seaborn` (Visualization)
+    * `scipy` (Scientific Computing)
 
+---
 
-pip install numpy pandas matplotlib scipy seaborn jupyter
+## 🚀 Getting Started
 
-jupyter notebook
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/your-username/Statistics.git](https://github.com/your-username/Statistics.git)
+    cd Statistics
+    ```
+
+2.  **Install dependencies**
+    ```bash
+    pip install numpy pandas matplotlib scipy seaborn jupyter
+    ```
+
+3.  **Launch Jupyter Notebook**
+    ```bash
+    jupyter notebook
+    ```
