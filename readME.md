@@ -29,7 +29,7 @@ Located in the `dataset/` directory, these real-world CSV files are used through
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Python 3.9+**
 * **Jupyter Notebook**
