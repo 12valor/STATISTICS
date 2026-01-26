@@ -6,7 +6,7 @@ This repository is built for students who want to actually understand statistics
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ### The Labs
 The activities follow a progression from Python basics to statistical application:
@@ -41,11 +41,11 @@ Located in the `dataset/` directory, these real-world CSV files are used through
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/your-username/Statistics.git](https://github.com/your-username/Statistics.git)
+    git clone [https://github.com/12valor/Statistics.git](https://github.com/12valor/Statistics.git)
     cd Statistics
     ```
 
