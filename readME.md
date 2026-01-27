@@ -20,6 +20,7 @@ The activities follow a progression from Python basics to statistical applicatio
 | **05** | `Lab-5-correlation.ipynb` | **Statistical Relationships:** Measuring the strength of relationships between variables (Pearson/Spearman). |
 | **06** | `Lab-6-standard-normal-distribution.ipynb` | **Probability:** Understanding the Bell Curve, Z-scores, and probability density. |
 | **07** | `Lab-7-z-Distribution.ipynb` | **Probability:** Finding the CI and Visualizing the Z-distribution |
+| **08** | `Lab-8-T-Distribution.ipynb` | **Probability:** The T-Distribution |
 
 ### The Datasets
 Located in the `dataset/` directory, these real-world CSV files are used throughout the labs:
